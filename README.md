@@ -4,6 +4,4 @@
 
 读书列表
 
-### [View My Blog &rarr;](https://github.com/solidSpoon/solidSpoon.github.io/issues)
-
-迁移到了本项目 issues 页面
+### [View My Blog](http://solidspoon.xyz)
