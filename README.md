@@ -2,6 +2,8 @@
 
 # ReadingList
 
-读书列表
+这是我的读书列表
 
+
+如果你想浏览我的博客：
 ### [View My Blog](http://solidspoon.xyz)
